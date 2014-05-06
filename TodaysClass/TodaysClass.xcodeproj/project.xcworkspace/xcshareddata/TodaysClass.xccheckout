@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C991C422-8EFF-4CEF-B92A-776C293DE063</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TodaysClass</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EC6127E3-205A-4AAC-A274-2B6292BD8680</key>
+		<string>https://github.com/mdmudassir/LambtonobjCCourse.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TodaysClass/TodaysClass.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EC6127E3-205A-4AAC-A274-2B6292BD8680</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mdmudassir/LambtonobjCCourse.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EC6127E3-205A-4AAC-A274-2B6292BD8680</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EC6127E3-205A-4AAC-A274-2B6292BD8680</string>
+			<key>IDESourceControlWCCName</key>
+			<string>LambtonobjCCourse</string>
+		</dict>
+	</array>
+</dict>
+</plist>
